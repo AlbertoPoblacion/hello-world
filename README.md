@@ -1,2 +1,2 @@
 # hello-world
-Time-honored tradition: tutrial for learning how to use github
+Time-honored tradition: tutorial for learning how to use github
